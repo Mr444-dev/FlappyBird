@@ -1,0 +1,21 @@
+# ninja log v6
+6	101	7677951459850834	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	748c9276a3b76b4d
+6	101	7677951459850834	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	748c9276a3b76b4d
+101	4090	7677951499645693	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	5acab63ef2399faf
+101	4090	7677951499645693	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	5acab63ef2399faf
+4090	4270	7677951499803775	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f9179cb966de27df
+4090	4270	7677951499803775	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	f9179cb966de27df
+4272	4385	7677951502649088	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	21c35f888d0889bb
+4272	4385	7677951502649088	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	21c35f888d0889bb
+4385	4460	7677951503420272	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f8021b737fc637b
+4385	4460	7677951503420272	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	f8021b737fc637b
+4460	4535	7677951504154679	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	60e5d058ac5270ec
+4460	4535	7677951504154679	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	60e5d058ac5270ec
+4536	4593	7677951504770363	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	2190e810c783d80
+4536	4593	7677951504770363	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	2190e810c783d80
+4593	4662	7677951505461263	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	bb2e530239fb39ed
+4593	4662	7677951505461263	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	bb2e530239fb39ed
+4663	4767	7677951506490864	CMakeFiles/flac-populate-complete	1cb73e2bfd8b0990
+4663	4767	7677951506490864	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	1cb73e2bfd8b0990
+4663	4767	7677951506490864	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	1cb73e2bfd8b0990
+4663	4767	7677951506490864	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	1cb73e2bfd8b0990

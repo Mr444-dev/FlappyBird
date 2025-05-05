@@ -1,0 +1,21 @@
+# ninja log v6
+3	65	7677951210869984	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	8d117256bf188731
+3	65	7677951210869984	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	8d117256bf188731
+65	13012	7677951340321207	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	4b2a7ca83e61a40e
+65	13012	7677951340321207	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	4b2a7ca83e61a40e
+13012	13169	7677951340399087	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	48aadb65264f3aeb
+13012	13169	7677951340399087	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	48aadb65264f3aeb
+13169	13295	7677951343130236	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	14dd7467014dac7a
+13169	13295	7677951343130236	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	14dd7467014dac7a
+13296	13372	7677951343926691	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	95d8a4b9fab2c9f1
+13296	13372	7677951343926691	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	95d8a4b9fab2c9f1
+13372	13430	7677951344519170	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	45c307b4664166b3
+13372	13430	7677951344519170	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	45c307b4664166b3
+13430	13505	7677951345271063	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	a7c0ef49c5754f21
+13430	13505	7677951345271063	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	a7c0ef49c5754f21
+13505	13600	7677951346174668	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	14cdb3b9a150a80c
+13505	13600	7677951346174668	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	14cdb3b9a150a80c
+13600	13705	7677951347280995	CMakeFiles/freetype-populate-complete	b6fd2d510a2a2dc6
+13600	13705	7677951347280995	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	b6fd2d510a2a2dc6
+13600	13705	7677951347280995	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	b6fd2d510a2a2dc6
+13600	13705	7677951347280995	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	b6fd2d510a2a2dc6

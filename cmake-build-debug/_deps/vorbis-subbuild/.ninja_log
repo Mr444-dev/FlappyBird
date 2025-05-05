@@ -1,0 +1,21 @@
+# ninja log v6
+3	74	7677951601231681	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	8552d614aa55af7b
+3	74	7677951601231681	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	8552d614aa55af7b
+75	5140	7677951651868200	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	9562280cdbd3b7b3
+75	5140	7677951651868200	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	9562280cdbd3b7b3
+5142	5347	7677951651953263	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	f8fcc40083c92db3
+5142	5347	7677951651953263	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	f8fcc40083c92db3
+5347	5428	7677951654769303	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	250d8c912a773951
+5347	5428	7677951654769303	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	250d8c912a773951
+5428	5497	7677951655453533	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	f8d6f9ba60e6029b
+5428	5497	7677951655453533	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	f8d6f9ba60e6029b
+5497	5599	7677951656415019	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	2b23785554c1a9fa
+5497	5599	7677951656415019	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	2b23785554c1a9fa
+5600	5678	7677951657254961	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	77b7aada83d0e9da
+5600	5678	7677951657254961	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	77b7aada83d0e9da
+5678	5723	7677951657720604	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	f08551eab05fb3bb
+5678	5723	7677951657720604	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	f08551eab05fb3bb
+5724	5796	7677951658453399	CMakeFiles/vorbis-populate-complete	5e7d85ae9d48ca2f
+5724	5796	7677951658453399	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	5e7d85ae9d48ca2f
+5724	5796	7677951658453399	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	5e7d85ae9d48ca2f
+5724	5796	7677951658453399	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	5e7d85ae9d48ca2f

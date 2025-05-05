@@ -1,0 +1,21 @@
+# ninja log v6
+2	69	7677951354664343	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	b9ded21c4f42c2a6
+2	69	7677951354664343	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	b9ded21c4f42c2a6
+69	2785	7677951381808986	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	2fbc6ba2d59befbe
+69	2785	7677951381808986	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	2fbc6ba2d59befbe
+2786	3019	7677951381896483	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	f216c8fce4d66ea8
+2786	3019	7677951381896483	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	f216c8fce4d66ea8
+3020	3167	7677951385619451	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	e03095d1ab6a9472
+3020	3167	7677951385619451	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	e03095d1ab6a9472
+3167	3235	7677951386321932	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	ed1cf43b5075661a
+3167	3235	7677951386321932	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	ed1cf43b5075661a
+3235	3309	7677951387058616	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	fff0826aff18dbb8
+3235	3309	7677951387058616	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	fff0826aff18dbb8
+3309	3395	7677951387927936	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	1f0dceb8dfa91f57
+3309	3395	7677951387927936	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	1f0dceb8dfa91f57
+3395	3460	7677951388594173	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	bd386b73e9673299
+3395	3460	7677951388594173	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	bd386b73e9673299
+3460	3545	7677951389444684	CMakeFiles/ogg-populate-complete	ea1e199984936e17
+3460	3545	7677951389444684	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	ea1e199984936e17
+3460	3545	7677951389444684	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	ea1e199984936e17
+3460	3545	7677951389444684	C:/Users/rusin/CLionProjects/FlappyBird/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	ea1e199984936e17
